@@ -24,8 +24,8 @@ function calcularTempo(dataInicial, elemento) {
 }
 
 // Adicione as datas aqui
-calcularTempo("2025-04-13T16:00:00", "data5");
-calcularTempo("2024-12-17T11:00:00", "data1");
-calcularTempo("2024-03-19T20:00:00", "data2");
-calcularTempo("2023-04-30T19:00:00", "data3");
-calcularTempo("2022-09-29T21:00:00", "data4");
+calcularTempo("2025-04-13T16:00:00", "data1");
+calcularTempo("2024-12-17T11:00:00", "data2");
+calcularTempo("2024-03-19T20:00:00", "data3");
+calcularTempo("2023-04-30T19:00:00", "data4");
+calcularTempo("2022-09-29T21:00:00", "data5");
